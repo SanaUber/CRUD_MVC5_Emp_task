@@ -1,0 +1,158 @@
+C:\project\emp_task\bin\emp_task.dll.config
+C:\project\emp_task\bin\emp_task.dll
+C:\project\emp_task\bin\emp_task.pdb
+C:\project\emp_task\bin\roslyn\csc.exe
+C:\project\emp_task\bin\roslyn\csc.exe.config
+C:\project\emp_task\bin\roslyn\csc.rsp
+C:\project\emp_task\bin\roslyn\csi.exe
+C:\project\emp_task\bin\roslyn\csi.exe.config
+C:\project\emp_task\bin\roslyn\csi.rsp
+C:\project\emp_task\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\project\emp_task\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\project\emp_task\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\project\emp_task\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\project\emp_task\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\project\emp_task\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\project\emp_task\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\project\emp_task\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\project\emp_task\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\project\emp_task\bin\roslyn\Microsoft.Managed.Core.targets
+C:\project\emp_task\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\project\emp_task\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\project\emp_task\bin\roslyn\System.AppContext.dll
+C:\project\emp_task\bin\roslyn\System.Collections.Immutable.dll
+C:\project\emp_task\bin\roslyn\System.Console.dll
+C:\project\emp_task\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\project\emp_task\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\project\emp_task\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\project\emp_task\bin\roslyn\System.Globalization.Calendars.dll
+C:\project\emp_task\bin\roslyn\System.IO.Compression.dll
+C:\project\emp_task\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\project\emp_task\bin\roslyn\System.IO.FileSystem.dll
+C:\project\emp_task\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\project\emp_task\bin\roslyn\System.Net.Http.dll
+C:\project\emp_task\bin\roslyn\System.Net.Sockets.dll
+C:\project\emp_task\bin\roslyn\System.Reflection.Metadata.dll
+C:\project\emp_task\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\project\emp_task\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\project\emp_task\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\project\emp_task\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\project\emp_task\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\project\emp_task\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\project\emp_task\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\project\emp_task\bin\roslyn\System.ValueTuple.dll
+C:\project\emp_task\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\project\emp_task\bin\roslyn\System.Xml.XmlDocument.dll
+C:\project\emp_task\bin\roslyn\System.Xml.XPath.dll
+C:\project\emp_task\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\project\emp_task\bin\roslyn\vbc.exe
+C:\project\emp_task\bin\roslyn\vbc.exe.config
+C:\project\emp_task\bin\roslyn\vbc.rsp
+C:\project\emp_task\bin\roslyn\VBCSCompiler.exe
+C:\project\emp_task\bin\roslyn\VBCSCompiler.exe.config
+C:\project\emp_task\bin\Antlr3.Runtime.dll
+C:\project\emp_task\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\project\emp_task\bin\Microsoft.Web.Infrastructure.dll
+C:\project\emp_task\bin\Newtonsoft.Json.dll
+C:\project\emp_task\bin\System.Web.Helpers.dll
+C:\project\emp_task\bin\System.Web.Mvc.dll
+C:\project\emp_task\bin\System.Web.Optimization.dll
+C:\project\emp_task\bin\System.Web.Razor.dll
+C:\project\emp_task\bin\System.Web.WebPages.Deployment.dll
+C:\project\emp_task\bin\System.Web.WebPages.dll
+C:\project\emp_task\bin\System.Web.WebPages.Razor.dll
+C:\project\emp_task\bin\WebGrease.dll
+C:\project\emp_task\bin\System.Web.Helpers.xml
+C:\project\emp_task\bin\System.Web.Mvc.xml
+C:\project\emp_task\bin\System.Web.Optimization.xml
+C:\project\emp_task\bin\System.Web.Razor.xml
+C:\project\emp_task\bin\System.Web.WebPages.xml
+C:\project\emp_task\bin\System.Web.WebPages.Deployment.xml
+C:\project\emp_task\bin\System.Web.WebPages.Razor.xml
+C:\project\emp_task\bin\Newtonsoft.Json.xml
+C:\project\emp_task\bin\Antlr3.Runtime.pdb
+C:\project\emp_task\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\project\emp_task\obj\Debug\emp_task.csproj.AssemblyReference.cache
+C:\project\emp_task\obj\Debug\emp_task.csproj.CoreCompileInputs.cache
+C:\project\emp_task\obj\Debug\emp_task.csproj.Up2Date
+C:\project\emp_task\obj\Debug\emp_task.dll
+C:\project\emp_task\obj\Debug\emp_task.pdb
+C:\project MVC 5\emp_task\bin\emp_task.dll.config
+C:\project MVC 5\emp_task\bin\emp_task.dll
+C:\project MVC 5\emp_task\bin\emp_task.pdb
+C:\project MVC 5\emp_task\bin\roslyn\csc.exe
+C:\project MVC 5\emp_task\bin\roslyn\csc.exe.config
+C:\project MVC 5\emp_task\bin\roslyn\csc.rsp
+C:\project MVC 5\emp_task\bin\roslyn\csi.exe
+C:\project MVC 5\emp_task\bin\roslyn\csi.exe.config
+C:\project MVC 5\emp_task\bin\roslyn\csi.rsp
+C:\project MVC 5\emp_task\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\project MVC 5\emp_task\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\project MVC 5\emp_task\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\project MVC 5\emp_task\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\project MVC 5\emp_task\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\project MVC 5\emp_task\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\project MVC 5\emp_task\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\project MVC 5\emp_task\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\project MVC 5\emp_task\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\project MVC 5\emp_task\bin\roslyn\Microsoft.Managed.Core.targets
+C:\project MVC 5\emp_task\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\project MVC 5\emp_task\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\project MVC 5\emp_task\bin\roslyn\System.AppContext.dll
+C:\project MVC 5\emp_task\bin\roslyn\System.Collections.Immutable.dll
+C:\project MVC 5\emp_task\bin\roslyn\System.Console.dll
+C:\project MVC 5\emp_task\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\project MVC 5\emp_task\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\project MVC 5\emp_task\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\project MVC 5\emp_task\bin\roslyn\System.Globalization.Calendars.dll
+C:\project MVC 5\emp_task\bin\roslyn\System.IO.Compression.dll
+C:\project MVC 5\emp_task\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\project MVC 5\emp_task\bin\roslyn\System.IO.FileSystem.dll
+C:\project MVC 5\emp_task\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\project MVC 5\emp_task\bin\roslyn\System.Net.Http.dll
+C:\project MVC 5\emp_task\bin\roslyn\System.Net.Sockets.dll
+C:\project MVC 5\emp_task\bin\roslyn\System.Reflection.Metadata.dll
+C:\project MVC 5\emp_task\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\project MVC 5\emp_task\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\project MVC 5\emp_task\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\project MVC 5\emp_task\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\project MVC 5\emp_task\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\project MVC 5\emp_task\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\project MVC 5\emp_task\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\project MVC 5\emp_task\bin\roslyn\System.ValueTuple.dll
+C:\project MVC 5\emp_task\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\project MVC 5\emp_task\bin\roslyn\System.Xml.XmlDocument.dll
+C:\project MVC 5\emp_task\bin\roslyn\System.Xml.XPath.dll
+C:\project MVC 5\emp_task\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\project MVC 5\emp_task\bin\roslyn\vbc.exe
+C:\project MVC 5\emp_task\bin\roslyn\vbc.exe.config
+C:\project MVC 5\emp_task\bin\roslyn\vbc.rsp
+C:\project MVC 5\emp_task\bin\roslyn\VBCSCompiler.exe
+C:\project MVC 5\emp_task\bin\roslyn\VBCSCompiler.exe.config
+C:\project MVC 5\emp_task\bin\Antlr3.Runtime.dll
+C:\project MVC 5\emp_task\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\project MVC 5\emp_task\bin\Microsoft.Web.Infrastructure.dll
+C:\project MVC 5\emp_task\bin\Newtonsoft.Json.dll
+C:\project MVC 5\emp_task\bin\System.Web.Helpers.dll
+C:\project MVC 5\emp_task\bin\System.Web.Mvc.dll
+C:\project MVC 5\emp_task\bin\System.Web.Optimization.dll
+C:\project MVC 5\emp_task\bin\System.Web.Razor.dll
+C:\project MVC 5\emp_task\bin\System.Web.WebPages.Deployment.dll
+C:\project MVC 5\emp_task\bin\System.Web.WebPages.dll
+C:\project MVC 5\emp_task\bin\System.Web.WebPages.Razor.dll
+C:\project MVC 5\emp_task\bin\WebGrease.dll
+C:\project MVC 5\emp_task\bin\System.Web.Helpers.xml
+C:\project MVC 5\emp_task\bin\System.Web.Mvc.xml
+C:\project MVC 5\emp_task\bin\System.Web.Optimization.xml
+C:\project MVC 5\emp_task\bin\System.Web.Razor.xml
+C:\project MVC 5\emp_task\bin\System.Web.WebPages.xml
+C:\project MVC 5\emp_task\bin\System.Web.WebPages.Deployment.xml
+C:\project MVC 5\emp_task\bin\System.Web.WebPages.Razor.xml
+C:\project MVC 5\emp_task\bin\Newtonsoft.Json.xml
+C:\project MVC 5\emp_task\bin\Antlr3.Runtime.pdb
+C:\project MVC 5\emp_task\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\project MVC 5\emp_task\obj\Debug\emp_task.csproj.AssemblyReference.cache
+C:\project MVC 5\emp_task\obj\Debug\emp_task.csproj.CoreCompileInputs.cache
+C:\project MVC 5\emp_task\obj\Debug\emp_task.csproj.Up2Date
+C:\project MVC 5\emp_task\obj\Debug\emp_task.dll
+C:\project MVC 5\emp_task\obj\Debug\emp_task.pdb

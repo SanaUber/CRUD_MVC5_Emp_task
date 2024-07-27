@@ -1,0 +1,115 @@
+@model System.Data.DataTable
+
+@{
+    ViewBag.Title = "Index";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sample Table</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+
+        th {
+            background-color: #f2f2f2;
+            text-align: left;
+        }
+
+        .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+
+            .dropdown-content a {
+                color: black;
+                padding: 12px 16px;
+                text-decoration: none;
+                display: block;
+            }
+
+                .dropdown-content a:hover {
+                    background-color: #f1f1f1;
+                }
+
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+
+        .dropdown:hover .dropbtn {
+            background-color: #3e8e41;
+        }
+
+        .add-employee-btn {
+            margin-bottom: 10px;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+            .add-employee-btn:hover {
+                background-color: #45a049;
+            }
+    </style>
+</head>
+<body>
+    <a class="add-employee-btn" href="@Url.Action("Create","Employee_task_table", new { @id = ViewBag.ProfileId })">Add Tasks</a>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Task Name</th>
+                <th>Task Descr</th>
+                <th>Date of Birth</th>
+                <th>Start time</th>
+                <th>Status</th>
+                  <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.Rows.Count; i++)
+            {
+                <tr>
+                    <td>@Model.Rows[i][2]</td>
+                    <td>@Model.Rows[i][3]</td>
+                    <td>@Model.Rows[i][4]</td>
+                    <td>@Model.Rows[i][5]</td>
+                      <td>
+                        <div class="dropdown">
+                            <button class="dropbtn"><i class="fas fa-ellipsis-v"></i></button>
+                            <div class="dropdown-content">
+                                <a href="@Url.Action("Edit", "Employee_task_table", new { @id = Model.Rows[i]["Profile_id"] })">Edit</a>
+                                <a href="@Url.Action("Delete", "Employee_task_table", new { @id = Model.Rows[i]["Profile_id"] })">Delete</a>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>
+
+
