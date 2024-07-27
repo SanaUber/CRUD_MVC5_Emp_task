@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\project MVC 5\\emp_task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE45A4B0-7511-465C-808D-C9183ACAE013}|emp_task.csproj|c:\\project mvc 5\\emp_task\\views\\employee_master\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE45A4B0-7511-465C-808D-C9183ACAE013}|emp_task.csproj|solutionrelative:views\\employee_master\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE45A4B0-7511-465C-808D-C9183ACAE013}|emp_task.csproj|c:\\project mvc 5\\emp_task\\views\\employee_task_table\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE45A4B0-7511-465C-808D-C9183ACAE013}|emp_task.csproj|solutionrelative:views\\employee_task_table\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE45A4B0-7511-465C-808D-C9183ACAE013}|emp_task.csproj|C:\\project MVC 5\\emp_task\\Views\\Employee_task_table\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE45A4B0-7511-465C-808D-C9183ACAE013}|emp_task.csproj|solutionrelative:Views\\Employee_task_table\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE45A4B0-7511-465C-808D-C9183ACAE013}|emp_task.csproj|C:\\project MVC 5\\emp_task\\Controllers\\Employee_task_tableController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE45A4B0-7511-465C-808D-C9183ACAE013}|emp_task.csproj|solutionrelative:Controllers\\Employee_task_tableController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE45A4B0-7511-465C-808D-C9183ACAE013}|emp_task.csproj|C:\\project MVC 5\\emp_task\\Views\\Employee_Master\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE45A4B0-7511-465C-808D-C9183ACAE013}|emp_task.csproj|solutionrelative:Views\\Employee_Master\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE45A4B0-7511-465C-808D-C9183ACAE013}|emp_task.csproj|C:\\project MVC 5\\emp_task\\Views\\Employee_Master\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE45A4B0-7511-465C-808D-C9183ACAE013}|emp_task.csproj|solutionrelative:Views\\Employee_Master\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\project MVC 5\\emp_task\\Views\\Employee_task_table\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee_task_table\\Index.cshtml",
+              "ToolTip": "C:\\project MVC 5\\emp_task\\Views\\Employee_task_table\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employee_task_table\\Index.cshtml",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAkwFUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T17:01:23.448Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\project MVC 5\\emp_task\\Views\\Employee_Master\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee_Master\\Create.cshtml",
+              "ToolTip": "C:\\project MVC 5\\emp_task\\Views\\Employee_Master\\Create.cshtml",
+              "RelativeToolTip": "Views\\Employee_Master\\Create.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACQAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T05:03:32.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\project MVC 5\\emp_task\\Views\\Employee_task_table\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee_task_table\\Edit.cshtml",
+              "ToolTip": "C:\\project MVC 5\\emp_task\\Views\\Employee_task_table\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Employee_task_table\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T18:31:49.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee_task_tableController.cs",
+              "DocumentMoniker": "C:\\project MVC 5\\emp_task\\Controllers\\Employee_task_tableController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Employee_task_tableController.cs",
+              "ToolTip": "C:\\project MVC 5\\emp_task\\Controllers\\Employee_task_tableController.cs",
+              "RelativeToolTip": "Controllers\\Employee_task_tableController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwDgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T17:01:23.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\project MVC 5\\emp_task\\Views\\Employee_Master\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee_Master\\Index.cshtml",
+              "ToolTip": "C:\\project MVC 5\\emp_task\\Views\\Employee_Master\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employee_Master\\Index.cshtml",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAkwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T17:21:49.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\project MVC 5\\emp_task\\Views\\Employee_Master\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee_Master\\Edit.cshtml",
+              "ToolTip": "C:\\project MVC 5\\emp_task\\Views\\Employee_Master\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Employee_Master\\Edit.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAkwD0AAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T16:59:56.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
