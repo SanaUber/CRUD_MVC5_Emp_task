@@ -1,0 +1,53 @@
+# Ignore Visual Studio user-specific and temporary files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build artifacts
+bin/
+obj/
+
+# NuGet Packages
+packages/
+*.nupkg
+project.lock.json
+
+# ASP.NET temporary files
+App_Data/
+App_Start/
+
+# Ignore configuration files with sensitive data
+secrets.json
+*.config.user
+appsettings.json
+appsettings.*.json
+
+# Rider and Resharper files
+.idea/
+_ReSharper*/
+
+# Log files
+*.log
+
+# Publish output
+publish/
+
+# IIS Express
+.vs/config/
+.vs/slnx.sqlite
+
+# Other
+Thumbs.db
+Desktop.ini
+# Ignore environment-specific config files
+Web.Debug.config
+Web.Release.config
+Web.config.user
+# Ignore database files
+App_Data/*.mdf
+App_Data/*.ldf
+.vs/
+
+Web.config/
